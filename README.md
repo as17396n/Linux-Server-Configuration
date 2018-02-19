@@ -4,7 +4,7 @@ IP address: 52.15.75.192.
 
 Accessible SSH port: 2200.
 
-Application URL: https://52.15.75.192
+Application URL: http://52.15.75.192
 
 
 ## Tasks
